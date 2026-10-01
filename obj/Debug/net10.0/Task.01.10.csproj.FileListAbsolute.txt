@@ -1,0 +1,14 @@
+C:\Users\Abubakr\Desktop\Task.01.10\bin\Debug\net10.0\Task.01.10.exe
+C:\Users\Abubakr\Desktop\Task.01.10\bin\Debug\net10.0\Task.01.10.deps.json
+C:\Users\Abubakr\Desktop\Task.01.10\bin\Debug\net10.0\Task.01.10.runtimeconfig.json
+C:\Users\Abubakr\Desktop\Task.01.10\bin\Debug\net10.0\Task.01.10.dll
+C:\Users\Abubakr\Desktop\Task.01.10\bin\Debug\net10.0\Task.01.10.pdb
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.AssemblyInfoInputs.cache
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.AssemblyInfo.cs
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.csproj.CoreCompileInputs.cache
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.dll
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\refint\Task.01.10.dll
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.pdb
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\Task.01.10.genruntimeconfig.cache
+C:\Users\Abubakr\Desktop\Task.01.10\obj\Debug\net10.0\ref\Task.01.10.dll

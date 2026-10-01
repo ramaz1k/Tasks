@@ -58,11 +58,11 @@ var students = new List<Student>
 //     Console.WriteLine($"Id : {student.Id} | Fullname: {student.FirstName} {student.LastName} | Start Date: {student.DateOfStart:yyyy-MM-dd}");
 // }
 // task 6
-// double avaregAge = students
+// double avgAge = students
 //     .Where(s => s.Status == Status.Active)
 //     .Average(s => s.Age);
 
-// Console.WriteLine($"Average Age of Active Students: {avgAge:F1}");
+// Console.WriteLine($"Average Age of Active Students: {avgAge}");
 
 
 
